@@ -1,2 +1,3 @@
 # afids-tools
-general tools for the afids project
+
+General tools for the afids project including creating an interface between fcsv files and ants.
